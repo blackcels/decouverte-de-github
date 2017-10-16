@@ -1,1 +1,3 @@
-test de contribution sur GtHb
+test de contribution sur GtHub 
+
+Github c'est une plateforme de versionning et de partage collaboratif en asynchrone de projet informatique utilisant GIT comme moteur.
